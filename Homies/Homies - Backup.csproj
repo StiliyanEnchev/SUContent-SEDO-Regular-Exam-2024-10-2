@@ -21,7 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Homies.Data\Homies.Data.csproj" />
   </ItemGroup>
-
+asdadasdf
   <ItemGroup>
     <Folder Include="Data\" />
   </ItemGroup>
